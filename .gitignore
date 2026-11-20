@@ -1,0 +1,16 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+a.out
+
+# Scratch I/O
+input.txt
+output.txt
+output/
+
+# Editor / extension files
+.vscode/
+.cph/
+.idea/
+.DS_Store
